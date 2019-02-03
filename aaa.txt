@@ -2,6 +2,10 @@ tanakaman
 
 
 
+<<<<<<< HEAD
 ohayyyyyyyyyyyyyoooooooooooooooooo
 
 ‚Ä‚·‚Æ‚Õ‚ê‚¢
+=======
+master‚Õ‚ê‚¢
+>>>>>>> 27c12dfb03aab0949a49afc3074c629be373e0b4
